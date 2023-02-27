@@ -1,0 +1,35 @@
+<!doctype html> 
+<html lang="en">
+<head>
+</head>
+<meta charset="utf-8">
+<head>
+<title>99 Cups of boba</title>
+</head>
+<body>
+<script>
+    var lyrics = "Boba";
+    var cans = 99;
+While (cups>0); {99,98,97,96,95,94,93,92,91,90,89,88,87,86,85,84,83,82,81,80}
+lyrics = lyrics + cups + " 99 cups of "
++ boba + " on the wall <br>"; lyrics = lyrics + cups + " cups of "
++ boba + "<br>";
+lyrics = lyrics + "Take one down, pass it around,<br>";
+if (cups > 1) {
+lyrics = lyrics + (cups-1) + " cups of "
++ boba + " on the wall <br>";
+}else {
+    lyrics = lyrics + cups + " 98 cups of "
++ boba + " on the wall <br>"; lyrics = lyrics + cups + " cups of "
++ boba + "<br>";
+lyrics = lyrics + "Take one down, pass it around,<br>";
+if (cups > 1) {
+lyrics = lyrics + (cups-1) + " cups of "
++ boba + " on the wall <br>";
+}else {
+lyrics = lyrics + "No more cups of "
++ boba + " on the wall <br>"; }cups = cups - 1;
+</script>
+</body>
+</html>
+}
