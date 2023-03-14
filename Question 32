@@ -29,10 +29,12 @@ window.onload = init;
 <h1>Question 32</h1>
 <h2>Which HTML structure element was designed to enclose Website content such as company services, blogs, images, and videos?</h2>
 <h3>
-  a. footer 
-  <mark> b. article </mark>
-  c. aside 
-  d.header
+  <ul>
+    <li> < Footer > </li>
+    <mark> <li> < article > </li></mark>
+    <li> < aside > </li>
+    <li> < header > </li>
+  </ul>
 </h3>
 <footer>
 <a id="vLink1"><strong> HTML </strong> Valid! </a> |
