@@ -12,7 +12,8 @@ footer>a, footer>a:visited {
     text-decoration: none;
     color: #555;
 }
-</style>
+</style> 
+<img src="http://clipart-library.com/clipart/8TzraLKgc.htm" alt="flower">
 <script>
 function init() {
   var loc = window.location.href;
