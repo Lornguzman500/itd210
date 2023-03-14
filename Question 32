@@ -3,6 +3,13 @@
 <head>
 <meta charset="utf-8">
 <title>Question 32</title>
+<h2>Which HTML structure element was designed to enclose Website content such as company services, blogs, images, and videos?</h2>
+<h3>
+  a. footer 
+  <mark> b. article </mark>
+  c. aside 
+  d.header
+</h3>
 <style>
 h1, footer {
     text-align: center;
